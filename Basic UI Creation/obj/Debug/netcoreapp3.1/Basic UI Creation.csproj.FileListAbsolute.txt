@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Basic UI Creation\Basic UI Creation\bin\Debug\netcoreapp3.1\Basic UI Creation.exe
+C:\Users\DELL\source\repos\Basic UI Creation\Basic UI Creation\bin\Debug\netcoreapp3.1\Basic UI Creation.deps.json
+C:\Users\DELL\source\repos\Basic UI Creation\Basic UI Creation\bin\Debug\netcoreapp3.1\Basic UI Creation.runtimeconfig.json
+C:\Users\DELL\source\repos\Basic UI Creation\Basic UI Creation\bin\Debug\netcoreapp3.1\Basic UI Creation.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Basic UI Creation\Basic UI Creation\bin\Debug\netcoreapp3.1\Basic UI Creation.dll
+C:\Users\DELL\source\repos\Basic UI Creation\Basic UI Creation\bin\Debug\netcoreapp3.1\Basic UI Creation.pdb
+C:\Users\DELL\source\repos\Basic UI Creation\Basic UI Creation\obj\Debug\netcoreapp3.1\Basic UI Creation.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Basic UI Creation\Basic UI Creation\obj\Debug\netcoreapp3.1\Basic_UI_Creation.Form1.resources
+C:\Users\DELL\source\repos\Basic UI Creation\Basic UI Creation\obj\Debug\netcoreapp3.1\Basic UI Creation.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Basic UI Creation\Basic UI Creation\obj\Debug\netcoreapp3.1\Basic UI Creation.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Basic UI Creation\Basic UI Creation\obj\Debug\netcoreapp3.1\Basic UI Creation.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Basic UI Creation\Basic UI Creation\obj\Debug\netcoreapp3.1\Basic UI Creation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Basic UI Creation\Basic UI Creation\obj\Debug\netcoreapp3.1\Basic UI Creation.dll
+C:\Users\DELL\source\repos\Basic UI Creation\Basic UI Creation\obj\Debug\netcoreapp3.1\Basic UI Creation.pdb
+C:\Users\DELL\source\repos\Basic UI Creation\Basic UI Creation\obj\Debug\netcoreapp3.1\Basic UI Creation.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Basic UI Creation\Basic UI Creation\obj\Debug\netcoreapp3.1\Basic_UI_Creation.Properties.Resources.resources
